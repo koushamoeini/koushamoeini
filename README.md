@@ -18,7 +18,19 @@ Mostly around general programming, with a growing interest in web development.
 </a>
 &nbsp;·&nbsp;
 <a href="https://github.com/koushamoeini">
-  <img src="https://img.shields.io/badge/GitHub-koushamoeini-181717?style=flat-square&logo=github" alt="github"/>
+  <img src="https://img.shields.io/badge/GitHub-koushamoeini-000000?style=flat-square&logo=github&logoColor=white" alt="github"/>
+</a>
+
+</div>
+
+---
+
+### Featured
+
+<div align="center">
+
+<a href="https://github.com/koushamoeini/mario">
+  <img src="https://img.shields.io/badge/Mario%20Repository-000000?style=for-the-badge&logo=github&logoColor=white" alt="mario repository"/>
 </a>
 
 </div>
@@ -28,8 +40,8 @@ Mostly around general programming, with a growing interest in web development.
 ### Stack & Interests
 
 - Java, Python, JavaScript  
-- HTML, CSS, basic backend stuff  
-- Simple, understandable code over flashy frameworks  
+- HTML, CSS, basic backend pieces  
+- Prefer simple, understandable code over flashy stacks  
 
 ---
 
