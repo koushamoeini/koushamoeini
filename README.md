@@ -1,37 +1,45 @@
-<h2 align="center">Hi, I'm Kousha 👋</h2>
+<!-- GitHub Profile README for koushamoeini -->
 
-<p align="center"><strong>Welcome to my GitHub!</strong></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=120&section=header&text=Kousha%20Moeini&fontSize=36&fontColor=f5f5f5" alt="header"/>
+</p>
+
+<div align="center">
+
+**koushamoeini**
+
+I write code, break things, and try to understand how they actually work.  
+Mostly around general programming, with a growing interest in web development.
+
+<br/>
+
+<a href="mailto:koushamoeini@gmail.com">
+  <img src="https://img.shields.io/badge/email-koushamoeini%40gmail.com-0a66c2?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
+</a>
+&nbsp;·&nbsp;
+<a href="https://github.com/koushamoeini">
+  <img src="https://img.shields.io/badge/GitHub-koushamoeini-181717?style=flat-square&logo=github" alt="github"/>
+</a>
+
+</div>
 
 ---
 
-<div align="center">
-  <a href="https://github.com/koushamoeini/mario">
-    <img src="https://img.shields.io/badge/Mario%20Game-JavaFX-blue?style=for-the-badge&logo=java" alt="Mario Game"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/koushamoeini/image-inpainting-toolkit">
-    <img src="https://img.shields.io/badge/Image%20Inpainting-Python%20Toolkit-orange?style=for-the-badge&logo=python" alt="Image Inpainting Toolkit"/>
-  </a>
-</div>
+### Stack & Interests
 
-<br/>
+- Java, Python, JavaScript  
+- HTML, CSS, basic backend stuff  
+- Simple, understandable code over flashy frameworks  
 
-<div align="center">
+---
 
-<a href="https://github.com/koushamoeini/mario">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=koushamoeini&repo=mario" width="390" />
-</a>
-&nbsp;
-<a href="https://github.com/koushamoeini/image-inpainting-toolkit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=koushamoeini&repo=image-inpainting-toolkit" width="390" />
-</a>
+### Contact
 
-</div>
+- Email: `koushamoeini@gmail.com`  
+- GitHub: [koushamoeini](https://github.com/koushamoeini)
 
-<br/>
+---
 
 <p align="center">
-  <a href="mailto:koushamoeini@gmail.com"><img src="https://img.shields.io/badge/email-koushamoeini@gmail.com-0078D4" alt="email"/></a>
-  &nbsp;|&nbsp;
-  <a href="https://github.com/koushamoeini">github.com/koushamoeini</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e4376,100:2b5876&height=70&section=footer" alt="footer"/>
 </p>
