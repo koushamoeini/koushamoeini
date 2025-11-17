@@ -1,16 +1,39 @@
-## Hi there 👋
+<h2 align="center">Hi, I'm Kousha 👋</h2>
 
-<!--
-**koushamoeini/koushamoeini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Welcome to my GitHub!</strong>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/koushamoeini/mario-platformer">
+    <img src="https://img.shields.io/badge/Mario%20Game-JavaFX-blue?style=for-the-badge&logo=java" alt="Mario Game"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/koushamoeini/image-inpainting-toolkit">
+    <img src="https://img.shields.io/badge/Image%20Inpainting-Python%20Toolkit-orange?style=for-the-badge&logo=python" alt="Image Inpainting Toolkit"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/koushamoeini/mario-platformer">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=koushamoeini&repo=mario-platformer" width="390" />
+</a>
+&nbsp;
+<a href="https://github.com/koushamoeini/image-inpainting-toolkit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=koushamoeini&repo=image-inpainting-toolkit" width="390" />
+</a>
+
+</div>
+
+---
+
+<p align="center">
+  <a href="mailto:koushamoeini@gmail.com"><img src="https://img.shields.io/badge/email-koushamoeini@gmail.com-0078D4" alt="email"/></a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/koushamoeini">github.com/koushamoeini</a>
+</p>
